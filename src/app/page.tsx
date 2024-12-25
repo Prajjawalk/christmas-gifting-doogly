@@ -21,7 +21,7 @@ export default function Home() {
         config={{
           destinationChain: "optimism",
           destinationAddress: "0x3652eC40C4D8F3e804373455EF155777F250a6E2",
-          receiverAddress: "feeasfc",
+          receiverAddress: "",
           destinationOutputTokenAddress:
             "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         }}
