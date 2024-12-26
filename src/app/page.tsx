@@ -15,6 +15,15 @@ export default function Home() {
         width={200}
         height={200}
       />
+      <div className="text-[#AF3BC9]">
+        You can gift using any ERC20 token on any of the supported chains and
+        receivers will get everything in USDC on Optimism. The excess gas tokens
+        will be refunded to donors after transaction.
+      </div>
+      <div className="text-[#AF3BC9] mb-5">
+        Supported Chains: Optimism, Base, Arbitrum, Polygon, BNB, Avalanche,
+        Celo
+      </div>
       <DooglyTippingButton
         buttonText="Tip"
         modalTitle="Support your favourite builders"
